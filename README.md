@@ -1,1 +1,1 @@
-# rust-snippet
+code snippet
